@@ -1,0 +1,4 @@
+CS,4,1,PF;OOP
+CE,4,1,OOP;PF
+Mech,4,1,Robotics
+Civil,4,1,Construction

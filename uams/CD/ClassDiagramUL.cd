@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="uams.UI.DegreeProgramUL">
+    <Position X="0.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\DegreeProgramUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.MiscUL">
+    <Position X="4" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\MiscUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.StudentUL">
+    <Position X="0.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAQAAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\StudentUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="uams.UI.SubjectUL">
+    <Position X="3.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAEAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UL\SubjectUL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
