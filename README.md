@@ -8,15 +8,12 @@ Academic branch offers different programs within different departments each prog
 ## Multiplicity
 ![Multiplicity](https://user-images.githubusercontent.com/96945594/180392959-96489246-33b3-442d-bdfa-90878276d0a9.jpg)
 ## Attributes and Function
-![Attributes](https://user-images.githubusercontent.com/96945594/180392941-ef5966da-2383-4ce1-9416-f89b8f571008.jpg)
-## Function and Attributes
 ### Bussiness Layer (BL)
 ![bl](https://user-images.githubusercontent.com/96945594/180393544-2dd2ef86-601f-461b-b609-e20c480994b8.JPG)
 ### User Layer (UL)
 ![ul](https://user-images.githubusercontent.com/96945594/180393533-95fa676f-d765-4352-b7da-80b7b59bbb04.JPG)
 ### Data Layer(DL)
 ![dl](https://user-images.githubusercontent.com/96945594/180393549-bf9b5391-c60e-4ce2-922c-d4b09cf9aebd.JPG)
-
 # Sequence Diagram 
 ## Add Student
 ![1  Add Student](https://user-images.githubusercontent.com/96945594/180394913-1cf16f6d-b8c7-4a88-9de4-56e8da866b6b.png)
