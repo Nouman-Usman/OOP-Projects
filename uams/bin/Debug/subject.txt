@@ -1,4 +1,4 @@
-161,PF,4,5000
-162,OOP,4,6000
 141,Robotics,3,3000
-150,Construction,2,2000
+150,Construction,2,2000167,uams.BL.Subject,3,3000s1,uams.BL.Subject,1,1
+s2,uams.BL.Subject,1,1
+168,uams.BL.Subject,4,1000

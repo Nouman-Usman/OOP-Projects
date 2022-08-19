@@ -33,3 +33,11 @@ D:\COMPUTER SCIENCE\PD\Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.csproj.Sugg
 D:\COMPUTER SCIENCE\PD\Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
 D:\COMPUTER SCIENCE\PD\Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.exe
 D:\COMPUTER SCIENCE\PD\Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.pdb
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\bin\Debug\uams.exe.config
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\bin\Debug\uams.exe
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\bin\Debug\uams.pdb
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.csproj.SuggestedBindingRedirects.cache
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.exe
+D:\COMPUTER SCIENCE\2nd Semester\PD\7 Scenarios Assignemnt\UAMS\Code\UAMS\uams\obj\Debug\uams.pdb

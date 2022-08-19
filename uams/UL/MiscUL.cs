@@ -10,9 +10,9 @@ namespace uams.UI
     {
         public static void header()
         {
-            Console.WriteLine("*****************************************");
-            Console.WriteLine("                   UAMS                   ");
-            Console.WriteLine("*****************************************");
+            Console.WriteLine("******************************************************************");
+            Console.WriteLine("******        University Admission Management System        ******               ");
+            Console.WriteLine("******************************************************************");
 
         }
 

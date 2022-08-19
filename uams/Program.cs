@@ -83,8 +83,14 @@ namespace uams
                 {
                     StudentUL.calculateFeeForAll();
                 }
+                else if(option == 8)
+                {
+                  Environment.Exit(0);
+                }
+                MiscUL.clearScreen();
+
             }
-           
+
         }
     }
 }

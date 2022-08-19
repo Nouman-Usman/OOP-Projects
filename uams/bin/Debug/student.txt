@@ -1,4 +1,5 @@
 AAA,12,1000,320,CS;CE;Mech
 BBB,15,970,310,CS;CE;Mech
 CCC,19,960,360,CE;CS;Civil
-ali,12,900,350,CS;CE
+1,1,1,1,Mech
+Ali,20,1000,300,Computer Science
